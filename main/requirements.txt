@@ -1,0 +1,8 @@
+streamlit>=1.40
+assemblyai
+librosa
+edge-tts
+pydub
+matplotlib
+pandas
+numpy
