@@ -8,4 +8,4 @@ pandas
 numpy
 streamlit
 requests
-pandas
+pandasgit add .
