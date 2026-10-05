@@ -658,3 +658,4 @@ Developed as part of a multimodal AI hackathon project.
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+cd C:\Users\rashi\Desktop\project
