@@ -6,3 +6,6 @@ pydub
 matplotlib
 pandas
 numpy
+streamlit
+requests
+pandas
